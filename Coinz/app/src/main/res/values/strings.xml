@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">Coinz</string>
+    <string name="user_location_permission_explanation">need permissions</string>
+    <string name="user_location_permission_not_granted">user location permission not granted</string>
     <string name="access_token">pk.eyJ1IjoiZmFuZ2FuIiwiYSI6ImNqbnZ1MGdhMjAybnMza3F4YmZzYzlsNmQifQ.RdjXuw-917JCRpJVEhBbNg</string>
+    <string name="title_activity_showfriends">showfriendsActivity</string>
+    <string name="no_friends">You do not have any friends</string>
+    <string name="send_out">send out</string>
+    <string name="bank_in">bank in</string>
 </resources>
